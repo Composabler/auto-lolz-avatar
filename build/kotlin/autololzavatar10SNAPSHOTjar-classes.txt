@@ -1,0 +1,1 @@
+C:\Users\Pavel\Downloads\auto-lolz-avatar\build\classes\kotlin\main\AvatarRepository.class;C:\Users\Pavel\Downloads\auto-lolz-avatar\build\classes\kotlin\main\MainKt$main$1.class;C:\Users\Pavel\Downloads\auto-lolz-avatar\build\classes\kotlin\main\MainKt.class
