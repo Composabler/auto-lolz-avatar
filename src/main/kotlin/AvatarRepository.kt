@@ -13,6 +13,6 @@ class AvatarRepository(
 
     suspend fun uploadAvatar(userId: Int, file: File): Result {
         val part = MultipartBody.Part.createFormData("avatar", file.name, file.asRequestBody("image/*".toMediaTypeOrNull()))
-        return api.forumApiService.uploadAvatar(userId, part)
+        return api.uploadAvatar(userId, part)
     }
 }

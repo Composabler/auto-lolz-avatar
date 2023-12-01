@@ -22,8 +22,7 @@ repositories {
 }
 
 dependencies {
-    testImplementation(kotlin("test"))
-    implementation("com.github.topilov:lolzteam-kotlin-api:1.0.6")
+    implementation("com.github.topilov:lolzteam-kotlin-api:1.0.8")
 }
 
 tasks.test {
